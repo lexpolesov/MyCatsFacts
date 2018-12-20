@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "40Y-7G-bu2"; */
+"40Y-7G-bu2.text" = "Title";
+
+/* Class = "UITabBarItem"; title = "Факты из интернета"; ObjectID = "Sv3-J5-eA4"; */
+"Sv3-J5-eA4.title" = "Факты из интернета";
+
+/* Class = "UITabBarItem"; title = "Избранное"; ObjectID = "V3m-Yi-zMB"; */
+"V3m-Yi-zMB.title" = "Избранное";
+
+/* Class = "UINavigationItem"; title = "Кошки"; ObjectID = "VCB-Nh-P0K"; */
+"VCB-Nh-P0K.title" = "Кошки";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Z0w-TA-H6c"; */
+"Z0w-TA-H6c.normalTitle" = "Button";
+
+/* Class = "UINavigationItem"; title = "Избранное"; ObjectID = "ZHR-ZD-fwb"; */
+"ZHR-ZD-fwb.title" = "Избранное";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "my7-6P-da1"; */
+"my7-6P-da1.text" = "Label";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "tyg-mZ-jKJ"; */
+"tyg-mZ-jKJ.text" = "Title";
